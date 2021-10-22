@@ -229,5 +229,3 @@ function changeColor() {
         document.getElementById("input9").style.backgroundColor = "green";
 
 };
-console.log(currentHour);
-console.log(changeColor());
